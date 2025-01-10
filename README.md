@@ -1,2 +1,3 @@
-# sqlite-discord-bot-example
-This is an example of a discord bot using sqlite3 as the database handeler [uesful for you lot who need it]
+# SQLite Discord Bot Example
+
+This project uses Sqlite to interact with a database using a discord bot this is useful because it allows you to use it for ocnfigurations (e.g guild percific or jus not wanting to use a json or txt file)
